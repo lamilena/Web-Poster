@@ -8,7 +8,11 @@
 body {
   overflow: hidden;
 
-  background-color: black;
+  margin: 0;
+  padding: 0;
+  /* background-color: black; */
+
+  background-image: url(stylesheets/images/bg2.jpg);
 }
 
 .title{
@@ -24,7 +28,7 @@ body {
 a{
   text-decoration: none;
 
-  color: white;
+  color: black;
 
   font-family: "Akrobat-Black";
   font-size: 160px;
@@ -38,12 +42,21 @@ img {
   top: -1%;
   left: 25%;
 
-  width: 300px;
+  width: 30vw;
+}
+
+.place1 img{
+  top: -1%;
+  left: 25%;
+
+  width: 30vw;
 }
 
 .place2 img {
-  top: 60%;
-  left: 90%;
+  top: 53%;
+  left: 85%;
+
+  width: 13vw;
 }
 
 .place3 img {
@@ -53,17 +66,19 @@ img {
 
 .place4 img {
   top: 4%;
-  left: 10%;
+  left: 4%;
 }
 
 .place5 img {
-  top: 6%;
-  left: 50%;
+  top: 4%;
+  left: 53%;
 }
 
 .place6 img {
-  top: 29%;
-  left: 85%;
+  top: 25%;
+  left: 82%;
+
+  width: 20vw;
 }
 
 .place7 img {
@@ -73,12 +88,16 @@ img {
 
 .place8 img {
   top: 70%;
-  left: 62%;
+  left: 56%;
+
+  width: 26vw;
 }
 
 .place9 img {
   top: 30%;
   left: 1%;
+
+  width: 22vw;
 }
 
 .place10 img {
@@ -93,7 +112,34 @@ img {
 
 .place12 img {
   top: 57%;
-  left: 3%;
+  left: -2%;
 
-  width: 300px;
+  width: 34vw;
+}
+
+.place13 img {
+  top: 21%;
+  left: 62%;
+
+  width: 12vw;
+}
+
+.place14 img {
+  top: 73%;
+  left: 90%;
+
+  width: 10vw
+}
+
+.place15 img {
+  top: 17%;
+  left: 16%;
+
+  width: 10vw;
+}
+
+.bg_1 {
+  margin-left: 100px;
+
+  background-image: url(stylesheets/images/bg1.jpg);
 }
