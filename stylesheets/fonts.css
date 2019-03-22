@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Akrobat-Regular";
+  font-style: normal;
+
+  src: url("../fonts/Akrobat-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Akrobat-SemiBold";
+  font-weight: bold;
+
+  src: url("../fonts/Akrobat-SemiBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Akrobat-Black";
+  font-weight: 800;
+
+  src: url("fonts/Akrobat-Black.woff — копия") format("woff");
+}
+
+@font-face {
+  font-family: "Akrobat-Bold";
+  font-weight: bold;
+
+  src: url("../fonts/Akrobat-Bold.woff") format("woff");
+}

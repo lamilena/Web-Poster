@@ -1,0 +1,99 @@
+@import "stylesheets/layout.css";
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  overflow: hidden;
+
+  background-color: black;
+}
+
+.title{
+  display: flex;
+
+  margin-top: 23vw;
+  margin-left: 6vw;
+
+  align-items: center;
+  justify-content: center;
+}
+
+a{
+  text-decoration: none;
+
+  color: white;
+
+  font-family: "Akrobat-Black";
+  font-size: 160px;
+}
+
+img {
+  position: absolute;
+}
+
+.place1 img{
+  top: -1%;
+  left: 25%;
+
+  width: 300px;
+}
+
+.place2 img {
+  top: 60%;
+  left: 90%;
+}
+
+.place3 img {
+  top: 80%;
+  left: 24%;
+}
+
+.place4 img {
+  top: 4%;
+  left: 10%;
+}
+
+.place5 img {
+  top: 6%;
+  left: 50%;
+}
+
+.place6 img {
+  top: 29%;
+  left: 85%;
+}
+
+.place7 img {
+  top: 68%;
+  left: 43%;
+}
+
+.place8 img {
+  top: 70%;
+  left: 62%;
+}
+
+.place9 img {
+  top: 30%;
+  left: 1%;
+}
+
+.place10 img {
+  top: 8%;
+  left: 74%;
+}
+
+.place11 img {
+  top: 77%;
+  left: 78%;
+}
+
+.place12 img {
+  top: 57%;
+  left: 3%;
+
+  width: 300px;
+}
