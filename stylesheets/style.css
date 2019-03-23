@@ -1,4 +1,4 @@
-@import "stylesheets/layout.css";
+@import "layout.css";
 
 * {
   -webkit-font-smoothing: antialiased;
@@ -10,10 +10,24 @@ body {
 
   margin: 0;
   padding: 0;
-  /* background-color: black; */
 
-  background-image: url(stylesheets/images/bg2.jpg);
+  /* background-image: url(images/bg2.jpg); */
 }
+
+.module {
+    width: 100vw;
+  height: 63vw;
+    margin-top: -31vw;
+    margin-left: 0vw;
+
+    background-image: url(images/bg2.jpg);
+    background-position: var(--x) var(--y);
+
+    --x: 0px;
+    --y: 0px;
+}
+
+
 
 .title{
   display: flex;
@@ -28,10 +42,10 @@ body {
 a{
   text-decoration: none;
 
-  color: black;
+  color: white;
 
-  font-family: "Akrobat-Black";
-  font-size: 160px;
+  font-family: "Akrobat-SemiBold";
+  font-size: 100px;
 }
 
 img {
@@ -136,10 +150,4 @@ img {
   left: 16%;
 
   width: 10vw;
-}
-
-.bg_1 {
-  margin-left: 100px;
-
-  background-image: url(stylesheets/images/bg1.jpg);
 }

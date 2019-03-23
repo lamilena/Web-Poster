@@ -2,14 +2,14 @@
   font-family: "Akrobat-Regular";
   font-style: normal;
 
-  src: url("../fonts/Akrobat-Regular.woff") format("woff");
+  src: url("stylesheets/fonts/Akrobat-Regular.woff — копия") format("woff");
 }
 
 @font-face {
   font-family: "Akrobat-SemiBold";
   font-weight: bold;
 
-  src: url("../fonts/Akrobat-SemiBold.woff") format("woff");
+  src: url("stylesheets/fonts/Akrobat-SemiBold.woff — копия") format("woff");
 }
 
 @font-face {

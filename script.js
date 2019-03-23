@@ -36,13 +36,11 @@ $("img").attr("src", image)
 
 },3000)
 
-//background
-// $(".stars a").hover(function() {
-//    var link = $(this)
-//    var overlay = link.data("overlay")
-//    console.log(overlay)
-//
-//
-//
-//
-// })
+// background
+
+const el = document.querySelector("#module");
+
+el.addEventListener("mousemove", (e) => {
+  el.style.setProperty('--x', -e.offsetX + "px");
+  el.style.setProperty('--y', -e.offsetY + "px");
+});
