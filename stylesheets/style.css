@@ -128,17 +128,17 @@ img {
 }
 
 .place12 img {
-  top: 57%;
-  left: -2%;
+  top: 58%;
+  left: 1%;
 
-  width: 34vw;
+  width: 27vw;
 }
 
 .place13 img {
-  top: 21%;
-  left: 62%;
+  top: 11%;
+  left: 58%;
 
-  width: 12vw;
+  width: 23vw;
 }
 
 .place14 img {
@@ -176,7 +176,6 @@ img {
   left: 50%;
 
   width: 18vw;
-  opacity: 0.5;
 }
 
 .place19 img {
@@ -196,11 +195,10 @@ img {
 }
 
 .place21 img {
-  top: 27%;
-  left: 69%;
+  top: 28%;
+  left: 74%;
 
-  width: 19vw;
-  opacity: 0.5;
+  width: 8vw;
 }
 
 .place22 img {
@@ -210,12 +208,64 @@ img {
 
   width: 7vw;
 }
+
 .place23 img {
   top: 5%;
   left: 14%;
-  opacity: 0.5;
 
   width: 11vw;
+}
+
+.place24 img {
+  top: 40%;
+  left: 55%;
+  opacity: 0.5;
+
+  width: 27vw;
+}
+
+.place25 img {
+  top: 27%;
+  left: 36%;
+
+  width: 17vw;
+}
+
+.place26 img {
+  top: 32%;
+  left: 11%;
+
+  width: 36vw;
+}
+
+.place27 img {
+  top: 50%;
+  left: 37%;
+  opacity: 0.5;
+
+  width: 8vw;
+}
+
+.place28 img {
+  top: 47%;
+  left: 44%;
+
+  width: 17vw;
+}
+
+.place29 img {
+  top: 44%;
+  left: 77%;
+
+  width: 13vw;
+}
+
+.place30 img {
+  top: 63%;
+  left: 56%;
+  opacity: 0.5;
+
+  width: 7vw;
 }
 
 .button {
