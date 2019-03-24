@@ -172,8 +172,8 @@ img {
 }
 
 .place18 img {
-  top: 80%;
-  left: 34%;
+  top: 24%;
+  left: 50%;
 
   width: 18vw;
   opacity: 0.5;
@@ -226,17 +226,21 @@ img {
     text-decoration: none;
     color: red;
     border: solid 5px red;
-    border-radius: 30px;
+    border-radius: 3px;
     transition: .4s;
     margin-left: 42%;
     margin-right: 42%;
-    margin-top: 25%;
+    margin-top: 50%;
     justify-content: center;
     align-items: center;
-    opacity: 0.8;
+    /* opacity: 0.8; */
 }
 
 .square_btn:hover {
     background: white;
     color: red, 0.5;
+}
+
+@media all and (max-width: 1441px){
+
 }
