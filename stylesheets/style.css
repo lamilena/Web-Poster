@@ -286,14 +286,16 @@ img {
 @media all and (max-width: 1024px){
    .button {
      margin-top: 60%;
-     font-size: 28px;
-     padding: 0.2em 3em;
+     font-size: 43px;
+     padding: 0.2em 4em;
+     margin-left: 30%;
+     margin-right: 30%
    }
 
    .place3 img {
-     top: 75%;
-     left: 1%;
-     width: 56vw;
+     top: 69%;
+     left: -13%;
+     width: 75vw;
    }
 
    .place7 img {
@@ -321,7 +323,7 @@ img {
 
    .place28 img {
      top: 57%;
-     left: 30%;
+     left: 25%;
    }
 
    .place30 img {
