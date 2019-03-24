@@ -11,10 +11,12 @@ body {
   margin: 0;
   padding: 0;
 
-  /* background-image: url(images/bg2.jpg); */
+  background-image: url(images/bg2.jpg);
+  /* background-color: black; */
+  background-size: cover;
 }
 
-.module {
+/* .module {
     width: 100vw;
   height: 63vw;
     margin-top: -31vw;
@@ -25,7 +27,7 @@ body {
 
     --x: 0px;
     --y: 0px;
-}
+} */
 
 
 
@@ -44,7 +46,7 @@ a{
 
   color: white;
 
-  font-family: "Akrobat-SemiBold";
+  font-family: "Akrobat-Black";
   font-size: 100px;
 }
 
@@ -79,8 +81,9 @@ img {
 }
 
 .place4 img {
-  top: 4%;
-  left: 4%;
+  top: 1%;
+  left: -5%;
+  width: 27vw;
 }
 
 .place5 img {
@@ -146,8 +149,94 @@ img {
 }
 
 .place15 img {
-  top: 17%;
-  left: 16%;
+  top: 15%;
+  left: 19%;
 
   width: 10vw;
+}
+
+.place16 img {
+    top: 30%;
+    left: 16%;
+
+    width: 7vw;
+    opacity: 0.5;
+  }
+
+.place17 img {
+  top: 15%;
+  left: 48%;
+
+  width: 11vw;
+  opacity: 0.5;
+}
+
+.place18 img {
+  top: 80%;
+  left: 34%;
+
+  width: 18vw;
+  opacity: 0.5;
+}
+
+.place19 img {
+  top: 60%;
+  left: 76%;
+
+  width: 14vw;
+  opacity: 0.5;
+}
+
+.place20 img {
+  top: 50%;
+  left: 1%;
+
+  width: 10vw;
+  opacity: 0.5;
+}
+
+.place21 img {
+  top: 27%;
+  left: 69%;
+
+  width: 19vw;
+  opacity: 0.5;
+}
+
+.place22 img {
+  top: 13%;
+  left: 88%;
+  opacity: 0.5;
+
+  width: 7vw;
+}
+.place23 img {
+  top: 5%;
+  left: 14%;
+  opacity: 0.5;
+
+  width: 11vw;
+}
+
+.button {
+    display: flex;
+    font-size: 26px;
+    font-family: "Akrobat-Bold";
+    padding: 0.2em 0.5em;
+    text-decoration: none;
+    color: red;
+    border: solid 5px red;
+    border-radius: 30px;
+    transition: .4s;
+    margin-left: 42%;
+    margin-right: 42%;
+    margin-top: 25%;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.8;
+}
+
+.square_btn:hover {
+    background: white;
+    color: red, 0.5;
 }
