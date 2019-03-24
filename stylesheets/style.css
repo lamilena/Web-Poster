@@ -16,22 +16,7 @@ body {
   background-size: cover;
 }
 
-/* .module {
-    width: 100vw;
-  height: 63vw;
-    margin-top: -31vw;
-    margin-left: 0vw;
-
-    background-image: url(images/bg2.jpg);
-    background-position: var(--x) var(--y);
-
-    --x: 0px;
-    --y: 0px;
-} */
-
-
-
-.title{
+/* .title{
   display: flex;
 
   margin-top: 23vw;
@@ -48,7 +33,7 @@ a{
 
   font-family: "Akrobat-Black";
   font-size: 100px;
-}
+} */
 
 img {
   position: absolute;
@@ -292,5 +277,63 @@ img {
 }
 
 @media all and (max-width: 1441px){
+   .button {
+     margin-top: 54%;
+     font-size: 40px;
+   }
+}
 
+@media all and (max-width: 1024px){
+   .button {
+     margin-top: 60%;
+     font-size: 28px;
+     padding: 0.2em 3em;
+   }
+
+   .place3 img {
+     top: 75%;
+     left: 1%;
+     width: 56vw;
+   }
+
+   .place7 img {
+     top: 68%;
+     left: 34%;
+   }
+
+   .place8 img {
+     top: 79%;
+     left: 50%;
+     width: 33vw;
+   }
+
+   .place11 img {
+     top: 83%;
+     left: 75%;
+   }
+
+   .place14 img {
+     top: 71%;
+     left: 75%;
+
+     width: 17vw;
+   }
+
+   .place28 img {
+     top: 57%;
+     left: 30%;
+   }
+
+   .place30 img {
+     top: 69%;
+     left: 61%;
+     width: 13vw;
+   }
+}
+
+@media all and (max-width: 102px){
+   .button {
+     margin-top: 60%;
+     font-size: 28px;
+   }
 }
