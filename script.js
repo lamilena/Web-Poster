@@ -35,3 +35,11 @@ setInterval(function (){
 $("img").attr("src", image)
 
 },3000)
+
+$(function () {
+  $(".more").slice(0.4).show();
+  $(".more_click").on("click", function(e){
+    e.preventDefault();
+    $(".more:hidden")
+  })
+})
