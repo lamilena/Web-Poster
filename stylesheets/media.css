@@ -1,11 +1,3 @@
-@media all and (max-width: 1441px){
-   .button {
-     margin-top: 54%;
-
-     font-size: 40px;
-   }
-}
-
 @media all and (max-width: 1024px){
    .button {
      margin-top: 60%;
