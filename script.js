@@ -35,10 +35,3 @@ setInterval(function (){
 $("img").attr("src", image)
 
 },3000)
-
-
-//More stars
-$.noConflict(true)
-$(function(){
-  $(.more)
-})
