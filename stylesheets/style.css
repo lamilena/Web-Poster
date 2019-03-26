@@ -521,99 +521,111 @@ align-items: flex-start;
 @media all and (min-width: 770px) and (max-width: 1025px) {
 
     .title {
-      margin-top: 38%;
-      margin-left: 45%;
+      margin-top: 90vw;
+      margin-left: 50vw;
    }
 
   .title1 {
-    font-size: 128px;
+    font-size: 180px;
   }
 
   .title2 {
-  font-size: 33px;
+  font-size: 47px;
 }
 
    .place1 img {
-     left: 24%;
+     left: 7%;
+
+     width: 23vw;
    }
 
    .place2 img {
-     top: 43vw;
-     left: 122vw;
+     top: 133vw;
+     left: 157vw;
 
      width:21vw;
    }
 
    .place3 img {
-     top: 66vw;
-     left: -4vw;
+     top: 207vw;
+     left: 5vw;
 
-     width: 45vw;
+     width: 14vw;
    }
 
    .place4 img {
      top: -4vw;
- left: -1vw;
+ left: 68vw;
 
  width: 26.5vw;
    }
 
 
    .place5 img{
-     top: -3vw;
+     top: -15vw;
      left: 59vw;
    }
 
    .place6 img {
-     top: 5vw;
-left: 103vw;
+     top: 91vw;
+    left: 146vw;
 
-width: 36vw;
+    width: 36vw;
    }
 
    .place7 img{
-     top: 78%;
+     top: 173vw;
+
+     width: 30vw;
    }
 
    .place8 img {
-     top: 108%;
+     top: 208%;
      left: 57%;
    }
 
    .place9 img {
-     width: 28vw;
+     top: 106vw;
+
+     width: 43vw;
    }
 
    .place10 img {
-     left: 89vw;
+     left: 142vw;
    }
 
    .place11 img {
-    top: 58vw;
-    left: 91vw;
+    top: 150vw;
+    left: 93vw;
 
-    width: 49vw;
+    width: 87vw;
 }
    .place12 img {
-     top: 86%
+     top: 196vw;
+     left: 20vw;
+
+     width: 40vw;
    }
 
    .place13 img {
-     top: -5%;
-     left: 70vw;
+     top: -4vw;
+     left: 116vw;
    }
 
    .place14 img {
-    top: 84vw;
-    left: 42vw;
+    top: 155vw;
+    left: 11vw;
 }
 
    .place15 img {
-     left: 25%;
+     left: -20%;
+
+     width: 50vw;
    }
 
    .place16 img{
-     left: 46vw;
+     top: 3%;
+     left: 38vw;
    }
 
    .place17 img {
@@ -625,39 +637,41 @@ width: 13vw;
 
    .place18 img {
      top: 17vw;
-     left: 101vw;
+     left: 121vw;
+
+     width: 60vw;
    }
 
    .place19 img {
-     top: 103%;
-     left: 65%;
+     top: 202vw;
+     left: 65vw;
 
      width: 29vw;
    }
 
    .place20 img {
-     top: 54vw;
-left: 17vw;
+     top: 90vw;
+    left: 5vw;
 
-width: 12vw;
+    width: 12vw;
    }
 
    .page_2 {
-    top: 108vw;
+    top: 234vw;
 
-    width: 144vw;
-    height: 110vw;
+    width: 175vw;
+    height: 241vw;
 }
 
    .text {
-     top: 129vw;
+     top: 279vw;
      left: 27%;
 
      width: 70vw;
    }
 
    .text2 {
-     top: 166vw;
+     top: 330vw;
      left: 26vw;
 
      width: 149vw;
@@ -701,17 +715,19 @@ width: 12vw;
 .text_column {
   top: 25vw;
 }
-.page_2 {
-  top: 184vw;
 
-  width: 140vw;
-  height: 188vw;
+.page_2 {
+   top: 187vw;
+
+   width: 140vw;
+   height: 188vw;
 }
+
    .place1 img {
      top: -1vw;
-left: 9vw;
+     left: 9vw;
 
-width: 42vw;
+     width: 42vw;
    }
 
    .place2 img {
@@ -730,9 +746,9 @@ width: 42vw;
 
    .place6 img {
      top: 30vw;
-left: 103vw;
+    left: 103vw;
 
-width: 37vw;
+    width: 37vw;
 
    }
 
