@@ -287,17 +287,17 @@ align-items: flex-start;
 }
 
   .title {
-    top: 5vw;
-    left: 5vw;
+    top: 9vw;
+    left: 13vw;
 
   }
 
   .title1{
-    font-size: 340px;
+    font-size: 450px;
   }
 
   .title2{
-    font-size: 93px;
+    font-size: 120px;
   }
 
 
@@ -329,7 +329,8 @@ align-items: flex-start;
   }
 
    .place2 img {
-    top: 54%;
+    top: 28;
+    left: 146vw;
 
     width: 13vw;
 }
@@ -348,23 +349,24 @@ align-items: flex-start;
 }
 
   .place6 img {
-    top: 15%;
-    left: 98vw;
+    top: 43vw;
+    left: 139vw;
 
-    width: 55vw;
+    width: 20vw;
 }
 
 .place8 img {
-    top: 63vw;
-    left: 47vw;
+  top: 79vw;
+  left: 59vw;
 
-    width: 45vw;
+  width: 28vw;
 }
 
    .place10 img {
-    top: -7%;
+     top: 15vw;
+     left: 129vw;
 
-    width: 24vw;
+     width: 21vw;
 }
 
 .place11 img {
@@ -374,17 +376,34 @@ align-items: flex-start;
   width: 56vw;
 }
 
+.place13 img {
+  left: 117vw;
+}
+
   .place14 img {
-    top: 65vw;
+    top: 83vw;
+    left: 43vw;
+
+    width: 12vw;
   }
 
   .place17 img {
-    width: 20vw;
+    top: -19vw;
+    left: 74vw;
+
+    width: 38vw;
+}
+
+  .place18 img {
+    top: 4vw;
+    left: 139vw;
+
+    width: 9vw;
   }
 
    .place19 img {
-   top: 68vw;
-   left: 77vw;
+   top: 81vw;
+   left: 90vw;
 
     }
 }
@@ -395,14 +414,19 @@ align-items: flex-start;
     left: 0vw;
   }
 
-  .text2 {
-    top: 115vw;
+  .text {
+    top:94vw;
   }
+
+  .text2 {
+    top: 125vw;
+  }
+
   .page_2{
-   top: 70vw;
+   top: 87vw;
 
    width: 102vw;
-   height: 74vw;
+   height: 66vw;
   }
 
   .place1 img {
@@ -457,6 +481,11 @@ align-items: flex-start;
   .place13 img {
     top: -7vw;
     left: 64vw;
+  }
+
+  .place15 img {
+    top: 8vw;
+    left: 20vw;
   }
 
   .place18 img {
@@ -610,14 +639,14 @@ width: 12vw;
    }
 
    .page_2 {
-    top: 107vw;
+    top: 108vw;
 
-    width: 141vw;
+    width: 144vw;
     height: 110vw;
 }
 
    .text {
-     top: 121vw;
+     top: 129vw;
      left: 27%;
 
      width: 70vw;
@@ -671,7 +700,7 @@ width: 12vw;
 .page_2 {
   top: 184vw;
 
-  width: 138vw;
+  width: 140vw;
   height: 188vw;
 }
    .place1 img {
