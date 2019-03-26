@@ -1,5 +1,3 @@
-//Mousemoving
-
 $(document).on("mousemove", function (ev) {
 
    var mouseX = ev.originalEvent.pageX
@@ -36,11 +34,8 @@ $(document).on("mousemove", function (ev) {
    })
 })
 
-//Colorchanging
-
 var count = 0
 var images = ["stylesheets/images/star_red.svg", "stylesheets/images/star_yellow.svg"]
-// var imagesSmall = ["stylesheets/images/star_red.svg", "stylesheets/images/star_yellow.svg"]
 
 setInterval(function (){
    count = count + 1
@@ -49,8 +44,6 @@ setInterval(function (){
    var image = images[count]
 
 $("img").attr("src", image)
-// $("div").attr("style", "background-image: url(" + imagesSmall[0] + ")")
-
 },3000)
 
 function criateStars() {
